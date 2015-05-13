@@ -1,0 +1,17 @@
+html, body {
+  background-color: #ffffff;
+}
+#map-canvas {
+  position:absolute;
+  height:auto;
+  bottom:0;
+  top:0;
+  left:0;
+  right:0;
+  margin:10px;
+}
+
+.img-info {
+  height: 100px;
+  width: auto;
+}
